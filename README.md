@@ -1,3 +1,4 @@
+![IMG_0614](https://github.com/MikeBednarek/MikeBednarek/assets/69659998/05725f4e-5f05-473b-b322-bb44e6f06910)
 ### Hi there 👋 My name is Mike Bednarek.
  I am a senior at Denison University double majoring in Data Analytics & Economics. My interests include sports, the outdoors, and music. I am open to all jobs in 2024, but am looking to get into consulting or data management. I hope to showcase some of my coding skills and my senior Data Analytics Capstone project on this page.
 
