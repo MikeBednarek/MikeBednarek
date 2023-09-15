@@ -3,7 +3,7 @@
  I am a senior at Denison University double majoring in Data Analytics & Economics. My interests include sports, the outdoors, and music. I am open to all jobs in 2024, but am looking to get into consulting or data management. I hope to showcase some of my coding skills and my senior Data Analytics Capstone project on this page.
 
 ---
-My LinkedIn profile is: [https://www.linkedin.com/in/mike-bednarek/] 
+My LinkedIn profile is: https://www.linkedin.com/in/mike-bednarek/ 
 I can be reached at: mikey.bednarek@gmail.com
 
 <!--
