@@ -4,6 +4,7 @@
 
 ---
 My LinkedIn profile is: https://www.linkedin.com/in/mike-bednarek/ 
+
 I can be reached at: mikey.bednarek@gmail.com
 
 <!--
